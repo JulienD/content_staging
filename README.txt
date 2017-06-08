@@ -21,7 +21,7 @@ Importing content:
     $ drush update-migration-config
 
 2. Run the migration
-    $ drush mi --group content_staging
+    $ drush mi --group=content_staging
 
 
 TODO:
