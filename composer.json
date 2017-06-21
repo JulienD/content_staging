@@ -1,16 +1,10 @@
 {
-  "name": "vpeltot/content_staging",
+  "name": "Eurelis/content_staging",
   "description": "A drupal module to keep content during site install.",
   "type": "drupal-module",
-  "homepage": "https://github.com/vpeltot/content_staging",
-  "authors": [
-    {
-      "name": "Vincent Peltot",
-      "homepage": "https://www.drupal.org/u/vpeltot"
-    }
-  ],
+  "homepage": "https://github.com/Eurelis/content_staging",
   "support": {
-    "issues": "https://github.com/vpeltot/content_staging/issues"
+    "issues": "https://github.com/Eurelis/content_staging/issues"
   },
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
